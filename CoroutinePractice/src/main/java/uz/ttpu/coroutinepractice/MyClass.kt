@@ -1,5 +1,5 @@
 package uz.ttpu.coroutinepractice
 
-fun main(){
-    Task02()
+suspend fun main(){
+    Task03()
 }
