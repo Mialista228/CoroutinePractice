@@ -1,5 +1,5 @@
 package uz.ttpu.coroutinepractice
 
 fun main(){
-    Task01()
+    Task02()
 }
